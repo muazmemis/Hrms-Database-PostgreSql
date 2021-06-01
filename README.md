@@ -1,8 +1,11 @@
-# hrmsDatabase
+# hrmsDatabasePostgreSQL
 Human Resources Management System - İnsan Kaynakları Yönetim Sistemi
 
-### Database - PostgreSQL
-### <a href="hrmsPostgreSql.sql">Click</a> for script codes.
+- [FrontEnd-React](https://github.com/muazmemis/hrmsFrontEndReact)
+- [BackEnd-Java](https://github.com/muazmemis/hrmsBackEndJava)
+* * *
+
+### <a href="hrmsPostgreSql.sql">Click</a> for database script codes.
 * * *
 
 ### Tablo yapısı:
