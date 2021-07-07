@@ -1,4 +1,4 @@
-# hrmsDatabasePostgreSQL
+# Hrms Database Postgre SQL
 Human Resources Management System - İnsan Kaynakları Yönetim Sistemi
 
 - [FrontEnd-React](https://github.com/muazmemis/hrmsFrontEndReact)
