@@ -3,7 +3,7 @@ Human Resources Management System - İnsan Kaynakları Yönetim Sistemi
 
 - [FrontEnd-React](https://github.com/muazmemis/hrmsFrontEndReact)
 - [BackEnd-Java](https://github.com/muazmemis/hrmsBackEndJava)
-- 
+
 * * *
 
 ### [Click](hrmsPostgreSql.sql) for database script codes.
